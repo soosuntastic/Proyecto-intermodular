@@ -12,4 +12,4 @@
 
   * También puedo añadir [enlaces]()
   * E imágenes
-![Imagen de un caracol](https://cdn.pixabay.com/photo/2019/12/30/14/13/snail-4729777_1280.jpg)
+![Imagen de un caracol](https://cdn0.ecologiaverde.com/es/posts/7/4/5/caracoles_terrestres_que_son_caracteristicas_y_tipos_4547_orig.jpg)
