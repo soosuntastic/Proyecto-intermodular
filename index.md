@@ -12,4 +12,4 @@
 
   * También puedo añadir [enlaces]()
   * E imágenes!
-![Imagen de un caracol](/github-light/assets/images/frog100x100.jpg)
+! [Imagen de un caracol] (https://cdn.pixabay.com/photo/2019/12/30/14/13/snail-4729777_1280.jpg)
