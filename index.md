@@ -1,6 +1,7 @@
 # Ejercicio obligatorio, quincena 15
 
 * Voy a crear una tabla
+* Me llamo Laura Mora Mulero
 
 | Pais    | Capital |
 | -------- | ------- |
